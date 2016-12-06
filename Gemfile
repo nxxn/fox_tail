@@ -2,7 +2,7 @@ source 'http://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.2.0'
+gem 'rails', '4.2.6'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
@@ -42,3 +42,11 @@ group :development, :test do
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
 end
+
+gem 'spree', '~> 3.1.0'
+gem 'spree_auth_devise', '~> 3.1.0'
+gem 'spree_gateway', '~> 3.1.0'
+gem 'spree_i18n', github: 'spree-contrib/spree_i18n', branch: '3-1-stable'
+gem 'spree_globalize', github: 'spree-contrib/spree_globalize', branch: 'master'
+
+gem 'awesome_print'
