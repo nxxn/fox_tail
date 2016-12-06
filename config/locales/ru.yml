@@ -736,7 +736,7 @@ ru:
     has_no_shipped_units: "не имеет отправленных единиц учёта"
     height: "Высота"
     hide_cents: "Скрыть центы"
-    home: "Домой"
+    home: "Главная"
     i18n:
       available_locales: "Доступные переводы"
       language: "Язык"
