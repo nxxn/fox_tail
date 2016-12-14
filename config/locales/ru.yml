@@ -1329,7 +1329,7 @@ ru:
         message: "Если Вы читаете это сообщение, значит почтовые настройки Spree верны."
         subject: "Тестовое сообщение"
     test_mode: "Тестовый режим"
-    thank_you_for_your_order: "Спасибо за покупку!"
+    thank_you_for_your_order: "Спасибо за покупку! Мы свяжемся с Вами в ближайшее время!"
     there_are_no_items_for_this_order: "В этом заказе нет товаров. Добавьте товары, чтобы продолжить, пожалуйста."
     there_were_problems_with_the_following_fields: "Возникли некоторые проблемы со следующими полями"
     this_order_has_already_received_a_refund:
